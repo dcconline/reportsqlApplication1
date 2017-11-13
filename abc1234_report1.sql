@@ -1,4 +1,4 @@
 SET TRANSACTION ISOLATION LEVEL READ UNCOMMITTED;
 
 
-select * from anewtable
+select * from proto.dbo.anewtable

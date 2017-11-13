@@ -1,1 +1,1 @@
-select 3
+select 3 from proto.dbo.somthingelse

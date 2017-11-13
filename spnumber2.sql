@@ -1,1 +1,1 @@
-select 2 
+select 2 from proto.dbo.other
