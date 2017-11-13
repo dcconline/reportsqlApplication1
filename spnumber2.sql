@@ -1,1 +1,1 @@
-select 2 
+select 2 from uat.dbo.other
